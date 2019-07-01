@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "~/3_Simulator/Webots_new/libraries/robotis-op2/robotis/Framework/include/**",
+                "~/3_Simulator/Webots_new/transfer/include/**",
+                "~/3_Simulator/Webots_new/libraries/managers/include/**",
+                "~/3_Simulator/Webots_new/transfer/src/**",
+                "/usr/local/webots/include/controller/cpp/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
