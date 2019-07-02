@@ -1,4 +1,4 @@
-# Modified_DarwinOP2_Webots_Simulation(UNDER CONSTRUCTION)
+# Modified_DarwinOP2_Webots_Simulation
 * ROS-integrated Biped Robot(Darwin-OP2) Simulator
 * Original Darwin-OP2 robot model is modified to be capable of simulating DepthCamera simulation along with whole state transmission to ROS environment
 * Modification details:
